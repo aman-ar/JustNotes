@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JustNotes</string>
+    <string name="create_sample_data">Create Sample Data</string>
+    <string name="delete_all_data">Delete All</string>
+    <string name="are_you_sure">Sure ?</string>
+    <string name="all_deleted">All Deleted</string>
+    <string name="title_activity_editor">Editor </string>
+    <string name="action_delete">Delete</string>
+    <string name="text_dummy">Dummy Text</string>
+    <string name="enter_note">Enter note here</string>
+
+</resources>
